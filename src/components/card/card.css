@@ -1,0 +1,24 @@
+.Card{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.175);
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px ;
+}
+button{
+    width: 40%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 3px;
+    font-size: 11px;
+    margin: 20px;
+}
+.card-body{
+    padding: 20px;
+}
